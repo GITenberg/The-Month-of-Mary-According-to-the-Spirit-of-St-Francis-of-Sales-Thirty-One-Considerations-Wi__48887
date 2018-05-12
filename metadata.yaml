@@ -1,4 +1,8 @@
 _repo: The-Month-of-Mary-According-to-the-Spirit-of-St-Francis-of-Sales-Thirty-One-Considerations-Wi__48887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Gilli, Don Caspar
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45022'
     url: http://www.gutenberg.org/2009/agents/45022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48887#The-Month-of-Mary-According-to-the-Spirit-of-St-Francis-of-Sales-Thirty-One-Considerations-Wi_
 gutenberg_issued: '2015-05-05'
 gutenberg_type: Text
 identifiers:
